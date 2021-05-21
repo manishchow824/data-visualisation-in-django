@@ -38,3 +38,5 @@ Some example unit tests are attached in the project. You can run them by
 executing the following command:
 
     python3 manage.py test
+*******************
+GITHUB
